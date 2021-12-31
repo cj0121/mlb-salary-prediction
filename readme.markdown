@@ -6,7 +6,7 @@
 
 ### __Background__
 
-##### This project is inspired by this [paper](http://article.sapub.org/10.5923.j.sports.20150502.02.html). In the study, the authors developed 4 MLB salaries prediction model, one of which is to predict MLB position players' yearly salary based on their aggregated career production stats. Specifically, 21 individual statistics were used in the model via stepwise selection technique. The model was proven to be fairly reliable, with an R-squared value of 0.7432, and 95% of the 180 test data had a Percent Error ([actual - predicted]/actual) > 9%.
+##### This project is inspired by this [paper](http://article.sapub.org/10.5923.j.sports.20150502.02.html). In the study, the authors developed 4 MLB salaries prediction models, one of which is to predict MLB position players' yearly salary based on their aggregated career production stats. Specifically, 21 individual statistics were used in the model via stepwise selection technique. The model was proven to be fairly reliable, with an R-squared value of 0.7432, and 95% of the 180 test data had a Percent Error ([actual - predicted]/actual) < 9%.
 
 ##### I think, however, there are a few areas for improvement to this model:
 
