@@ -17,3 +17,5 @@ I think, however, there are a few areas for improvement to this model:
 3. The authors only selected basic-level production statistics such as: At-Bats, Stolen Bases, Sacrifice Hits, Positions, etc., due to baseball fans' familiarity with them. It is, however, widely-accepted among the sabermetrics community that these basic stats can sometimes be partial and misleading.
 
 In this project, I will attempt to improve the original model by using a slightly different approach and parameters.
+
+Click [here]('data_cleaning.ipynb') to see the final project
