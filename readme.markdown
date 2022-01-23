@@ -18,4 +18,4 @@ I think, however, there are a few areas for improvement to this model:
 
 In this project, I will attempt to improve the original model by using a slightly different approach and parameters.
 
-Click [here]('data_cleaning.ipynb') to see the final project
+Click [here](data_cleaning.ipynb) to see the final project
